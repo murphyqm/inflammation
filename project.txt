@@ -8,3 +8,5 @@ Samit is a Statistician.
 
 We will need to determine who is responsible for what in this project.
 
+It's likely we will need a research software engineer with Python or R 
+programming skills.
