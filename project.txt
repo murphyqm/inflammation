@@ -14,3 +14,6 @@ ggplot.
 
 Version control skills would also be useful, as would the ability to use 
 GitHub. We may also use GitLab and BitBucket.
+
+Further requirements will be discussed in an 
+upcoming meeting.
