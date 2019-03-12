@@ -13,4 +13,4 @@ programming skills. They will need to be familiar with matplotlib and
 ggplot.
 
 Version control skills would also be useful, as would the ability to use 
-GitHub.
+GitHub. We may also use GitLab and BitBucket.
