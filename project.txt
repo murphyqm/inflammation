@@ -17,3 +17,6 @@ GitHub. We may also use GitLab and BitBucket.
 
 Further requirements will be discussed in an 
 upcoming meeting.
+
+Sometimes conflicts arise when multiple team 
+members make changes in tandem.
